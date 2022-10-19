@@ -1,0 +1,5 @@
+#include "stdio.h"
+void printf_out()
+{
+  printf("x=%d",(int)x);
+}
